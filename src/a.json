@@ -1,0 +1,82 @@
+user: {
+    "username": "Tilko",
+    "pool": {
+        "userPoolId": "eu-west-2_L6bUoFCcj",
+        "clientId": "k3lvcle6dns0bh12bvgmlpda1",
+        "client": {
+            "endpoint": "https://cognito-idp.eu-west-2.amazonaws.com/",
+            "fetchOptions": {}
+        },
+        "advancedSecurityDataCollectionFlag": true,
+        "storage": {
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.userData": "{\"UserAttributes\":[{\"Name\":\"sub\",\"Value\":\"40ef15ad-77e2-4a7c-be04-51e57c152bf6\"},{\"Name\":\"email_verified\",\"Value\":\"true\"},{\"Name\":\"email\",\"Value\":\"martinetti.gregoire@gmail.com\"}],\"Username\":\"Tilko\"}",
+            "amplify-signin-with-hostedUI": "false",
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.idToken": "eyJraWQiOiJYdWgrb1wvaWJEeXBjZUNqVFoxVzZ5bHRsVnlnaVNGZmNEaGFCVU5ldlwvTTA9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJhdWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImV2ZW50X2lkIjoiNGE4MWVlYmEtNThkYi00ZGQzLTg5OTYtZmQ1YWM2MGM1NzJiIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImNvZ25pdG86dXNlcm5hbWUiOiJUaWxrbyIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJlbWFpbCI6Im1hcnRpbmV0dGkuZ3JlZ29pcmVAZ21haWwuY29tIn0.KnELdgUy7NpLA5sJB-bvxLKamyj9AcNpLhzrGT9Dmoqnmt0n1QAvk4Kx7xKng1dn0nVG0-K3cTwtos-56CPRC5zZ2_S8vT3YyB74dPMOGkwuzz2qlCciEjSy4pwVNnDak4eKk7HfZNVp6BScEyce8jtNOuueb1CmQSa6PKj_QGPSfoDxp2KWZ0Ko_PfUcE7vrl7ieFZMZK3QMFDNRg711YHSE7RMVrJrzTjf66xulWTwGf6iATZlpBzHWpQkqklOhAKn_Oz8FsfUn_s-FPpSFJzSspDJvF7jK7GZvtP2XXnfGSzmW5VvoYOa7JigBJ6JqEyZMbsnSa0GF8TjeSIb6w",
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.clockDrift": "0",
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.accessToken": "eyJraWQiOiI5UWFxXC9JcFwvSFE4UkNpSE50Mnh6NFZKbFVwa0hMY2dPbWhBOTJEeGtReVE9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJldmVudF9pZCI6IjRhODFlZWJhLTU4ZGItNGRkMy04OTk2LWZkNWFjNjBjNTcyYiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJqdGkiOiIyMWI2N2ZhZC1hZmIxLTRkZTctODdhNy1jOTkxNTYyNzMxOWQiLCJjbGllbnRfaWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwidXNlcm5hbWUiOiJUaWxrbyJ9.bnN09j2Pl0EvMIHzA62JM87aFH3LopJQAHu8wxSc0rJ15wsnYxgpafY13R0-xu2VD1Dbwduib0GKg7Sv03BwZDGQpEdDKdJKHe5spxzuRSx5dApQ0AlL3SECt725JR1xq_HQyIj8274afG-QEPIPRdM17pr2-JWNlx5JJaqP6un_JFZO4z7eWrObSV5LOE-BSVD6wFR7Z9_HOvLSPyP1xuZkUih1SVnlragHAVsXiOoyrUlACzFy1SFpZ53MRaZkXI5G6-5LNaUfOoHdchAUNDklBXGmlbmYM2YOhqATfCNFIPeUG8SGGzwOvEZg_pyMDKs4FyONP7xoGG_HcW-DPg",
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.refreshToken": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.T-hDFqAmOm7U9C6JP7GuH48H4SLF6wl5UKNRJGheMFMybCZbTn5E0cIoj5IQz1LReTcPCPvWjihlfgixoRHu0FbjGLEBJADZ3esgD3NHFprUr-FvfExE_0xZzMI6e4Xi7gFXSn5KbEA3FetEoOknMLLFikwKGXIAzTzNgBe08_iuVZHg8iaLckbiXgYpA-MZ__khWt8gEMSzrlHTHVU6UG6GT6cTHBcjUbWD6bD-6F9s5FARQ6HwdxnGrD_Mhwov8iBiAAfHxEJCBJ6qqGywv3zw22vJ8EQE9hxdJZayYvhFC9qfK0zcDgVCrkcNsJGIWpJv2QqDassTNqCvKIL-kg.m-RBx8rSsF9_4QJw.dtFyjZVmcF-xRdISSJbYEkBxWYyizqbBnHzAoziT_yUyKF5cawfa71W_W27-TUrJE9cnoYJVcFGXzsiXMFPUegbfYlsIVncVg7Nb8Fj7H4EEGkoHPlT5uE9wA3M4EpfRKpRVx8u9XVOE_azb-yAYdN2wcgeVm5wk4yvb30d--ppqeltoit7Mk9R775TQwB2r8nOa0-RHIVoreGMWOqiy6henan2xlQuR93ipFDpjFpd1DQAJ0WdyshMgrgYLQ_377icFC7Nm9zajC0zMi5Q7PkXA_5d7oqmvHXd4TYDKsm2IChQGkmPJV4-_qu1u0UJyo9jim3bII9IuORH8pSiWpD40qJZMntaOxGIMr3Y-cz0cuwCksjb3vKjWcf0B9t-VzAvm-x06F-173k2oIqnBB41p3TLnPWJYoXndmI5MyzUCx2H9znYfwCnG8_22su_seytxZcsdkqymiayxqIu7snzBeVT48whd0DCaoRvhWmiY-FtKfF-KdH1bpp0w-3MuoXDiyV--g05EXQ7hdZZ1z6jh2Re0Z-i6u_fJJyazIN62QVpeIJ2aMypumL0oRzXZUvOXxhG3esSLciwj5Dkf10EN3kYE68bXtO3XpXXD10apgy4hhLtzA_InIaxZdsMxgpYmh7zZQMU5u51US9Cma0zKKxXJcN1IoXHb_nUg9x_GMVRmJ_59NiXgfC7p4K8zfTRIO7GERw-LI_X4rjg3W5-spNXRo8NLb8j788kDny-SRHL5fAjVPy7xr_x73qp8uK5M5TFfCBV9mfUbcry3UcYTYDr2wb9zz4d4BCQVEUUtfBGz3HNvG_4UAopiqCxoarnYUG0aeRNkAIlcDfyIZ_a7tIaU2k21bTymt2cbVKanjP_Gy9nVHqI9Xrp6ECL6IVRHcxjn5N_W1Q1P0tTIY3GuVhNV5MY5Agxh7oohxod3suVRMvqz0jdi8DH__W2Gb4MRaNcor0YJrAI1FmfOfKRo7SWoIunNHBWa5jUjazpcLcvQlNEAVvSFC1xuN3zO8SF_MWFvIXHV4LzbX0-CRo1iNrr_STNMd9bDX2Or3BFbiJGMACtl94RdYfedpQOQCjYiLAUbQGWiboHMyEy6yu21X_jmTLTG-albXDiHb2aruLMgCLQbOvaKQmbEdDl5c9b-RRhpWtteo2qp5c_qAeXhUrP8PbEwX6HodV6WLShTcrNTmpHnu6OEMDS3LI4vI576RjYWdQOPbniUzxfXT0X0K2tEYJ5SssJdjUe-_Qp0E7fZlAmGoCNtMz5GYqDuBQ.4M93gOGGBEsaNc_Jqe8fxg",
+            "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.LastAuthUser": "Tilko"
+        }
+    },
+    "Session": null,
+    "client": {
+        "endpoint": "https://cognito-idp.eu-west-2.amazonaws.com/",
+        "fetchOptions": {}
+    },
+    "signInUserSession": {
+        "idToken": {
+            "jwtToken": "eyJraWQiOiJYdWgrb1wvaWJEeXBjZUNqVFoxVzZ5bHRsVnlnaVNGZmNEaGFCVU5ldlwvTTA9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJhdWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImV2ZW50X2lkIjoiNGE4MWVlYmEtNThkYi00ZGQzLTg5OTYtZmQ1YWM2MGM1NzJiIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImNvZ25pdG86dXNlcm5hbWUiOiJUaWxrbyIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJlbWFpbCI6Im1hcnRpbmV0dGkuZ3JlZ29pcmVAZ21haWwuY29tIn0.KnELdgUy7NpLA5sJB-bvxLKamyj9AcNpLhzrGT9Dmoqnmt0n1QAvk4Kx7xKng1dn0nVG0-K3cTwtos-56CPRC5zZ2_S8vT3YyB74dPMOGkwuzz2qlCciEjSy4pwVNnDak4eKk7HfZNVp6BScEyce8jtNOuueb1CmQSa6PKj_QGPSfoDxp2KWZ0Ko_PfUcE7vrl7ieFZMZK3QMFDNRg711YHSE7RMVrJrzTjf66xulWTwGf6iATZlpBzHWpQkqklOhAKn_Oz8FsfUn_s-FPpSFJzSspDJvF7jK7GZvtP2XXnfGSzmW5VvoYOa7JigBJ6JqEyZMbsnSa0GF8TjeSIb6w",
+            "payload": {
+                "sub": "40ef15ad-77e2-4a7c-be04-51e57c152bf6",
+                "aud": "k3lvcle6dns0bh12bvgmlpda1",
+                "email_verified": true,
+                "event_id": "4a81eeba-58db-4dd3-8996-fd5ac60c572b",
+                "token_use": "id",
+                "auth_time": 1596057222,
+                "iss": "https://cognito-idp.eu-west-2.amazonaws.com/eu-west-2_L6bUoFCcj",
+                "cognito:username": "Tilko",
+                "exp": 1596060822,
+                "iat": 1596057222,
+                "email": "martinetti.gregoire@gmail.com"
+            }
+        },
+        "refreshToken": {
+            "token": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.T-hDFqAmOm7U9C6JP7GuH48H4SLF6wl5UKNRJGheMFMybCZbTn5E0cIoj5IQz1LReTcPCPvWjihlfgixoRHu0FbjGLEBJADZ3esgD3NHFprUr-FvfExE_0xZzMI6e4Xi7gFXSn5KbEA3FetEoOknMLLFikwKGXIAzTzNgBe08_iuVZHg8iaLckbiXgYpA-MZ__khWt8gEMSzrlHTHVU6UG6GT6cTHBcjUbWD6bD-6F9s5FARQ6HwdxnGrD_Mhwov8iBiAAfHxEJCBJ6qqGywv3zw22vJ8EQE9hxdJZayYvhFC9qfK0zcDgVCrkcNsJGIWpJv2QqDassTNqCvKIL-kg.m-RBx8rSsF9_4QJw.dtFyjZVmcF-xRdISSJbYEkBxWYyizqbBnHzAoziT_yUyKF5cawfa71W_W27-TUrJE9cnoYJVcFGXzsiXMFPUegbfYlsIVncVg7Nb8Fj7H4EEGkoHPlT5uE9wA3M4EpfRKpRVx8u9XVOE_azb-yAYdN2wcgeVm5wk4yvb30d--ppqeltoit7Mk9R775TQwB2r8nOa0-RHIVoreGMWOqiy6henan2xlQuR93ipFDpjFpd1DQAJ0WdyshMgrgYLQ_377icFC7Nm9zajC0zMi5Q7PkXA_5d7oqmvHXd4TYDKsm2IChQGkmPJV4-_qu1u0UJyo9jim3bII9IuORH8pSiWpD40qJZMntaOxGIMr3Y-cz0cuwCksjb3vKjWcf0B9t-VzAvm-x06F-173k2oIqnBB41p3TLnPWJYoXndmI5MyzUCx2H9znYfwCnG8_22su_seytxZcsdkqymiayxqIu7snzBeVT48whd0DCaoRvhWmiY-FtKfF-KdH1bpp0w-3MuoXDiyV--g05EXQ7hdZZ1z6jh2Re0Z-i6u_fJJyazIN62QVpeIJ2aMypumL0oRzXZUvOXxhG3esSLciwj5Dkf10EN3kYE68bXtO3XpXXD10apgy4hhLtzA_InIaxZdsMxgpYmh7zZQMU5u51US9Cma0zKKxXJcN1IoXHb_nUg9x_GMVRmJ_59NiXgfC7p4K8zfTRIO7GERw-LI_X4rjg3W5-spNXRo8NLb8j788kDny-SRHL5fAjVPy7xr_x73qp8uK5M5TFfCBV9mfUbcry3UcYTYDr2wb9zz4d4BCQVEUUtfBGz3HNvG_4UAopiqCxoarnYUG0aeRNkAIlcDfyIZ_a7tIaU2k21bTymt2cbVKanjP_Gy9nVHqI9Xrp6ECL6IVRHcxjn5N_W1Q1P0tTIY3GuVhNV5MY5Agxh7oohxod3suVRMvqz0jdi8DH__W2Gb4MRaNcor0YJrAI1FmfOfKRo7SWoIunNHBWa5jUjazpcLcvQlNEAVvSFC1xuN3zO8SF_MWFvIXHV4LzbX0-CRo1iNrr_STNMd9bDX2Or3BFbiJGMACtl94RdYfedpQOQCjYiLAUbQGWiboHMyEy6yu21X_jmTLTG-albXDiHb2aruLMgCLQbOvaKQmbEdDl5c9b-RRhpWtteo2qp5c_qAeXhUrP8PbEwX6HodV6WLShTcrNTmpHnu6OEMDS3LI4vI576RjYWdQOPbniUzxfXT0X0K2tEYJ5SssJdjUe-_Qp0E7fZlAmGoCNtMz5GYqDuBQ.4M93gOGGBEsaNc_Jqe8fxg"
+        },
+        "accessToken": {
+            "jwtToken": "eyJraWQiOiI5UWFxXC9JcFwvSFE4UkNpSE50Mnh6NFZKbFVwa0hMY2dPbWhBOTJEeGtReVE9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJldmVudF9pZCI6IjRhODFlZWJhLTU4ZGItNGRkMy04OTk2LWZkNWFjNjBjNTcyYiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJqdGkiOiIyMWI2N2ZhZC1hZmIxLTRkZTctODdhNy1jOTkxNTYyNzMxOWQiLCJjbGllbnRfaWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwidXNlcm5hbWUiOiJUaWxrbyJ9.bnN09j2Pl0EvMIHzA62JM87aFH3LopJQAHu8wxSc0rJ15wsnYxgpafY13R0-xu2VD1Dbwduib0GKg7Sv03BwZDGQpEdDKdJKHe5spxzuRSx5dApQ0AlL3SECt725JR1xq_HQyIj8274afG-QEPIPRdM17pr2-JWNlx5JJaqP6un_JFZO4z7eWrObSV5LOE-BSVD6wFR7Z9_HOvLSPyP1xuZkUih1SVnlragHAVsXiOoyrUlACzFy1SFpZ53MRaZkXI5G6-5LNaUfOoHdchAUNDklBXGmlbmYM2YOhqATfCNFIPeUG8SGGzwOvEZg_pyMDKs4FyONP7xoGG_HcW-DPg",
+            "payload": {
+                "sub": "40ef15ad-77e2-4a7c-be04-51e57c152bf6",
+                "event_id": "4a81eeba-58db-4dd3-8996-fd5ac60c572b",
+                "token_use": "access",
+                "scope": "aws.cognito.signin.user.admin",
+                "auth_time": 1596057222,
+                "iss": "https://cognito-idp.eu-west-2.amazonaws.com/eu-west-2_L6bUoFCcj",
+                "exp": 1596060822,
+                "iat": 1596057222,
+                "jti": "21b67fad-afb1-4de7-87a7-c9915627319d",
+                "client_id": "k3lvcle6dns0bh12bvgmlpda1",
+                "username": "Tilko"
+            }
+        },
+        "clockDrift": 0
+    },
+    "authenticationFlowType": "USER_SRP_AUTH",
+    "storage": {
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.userData": "{\"UserAttributes\":[{\"Name\":\"sub\",\"Value\":\"40ef15ad-77e2-4a7c-be04-51e57c152bf6\"},{\"Name\":\"email_verified\",\"Value\":\"true\"},{\"Name\":\"email\",\"Value\":\"martinetti.gregoire@gmail.com\"}],\"Username\":\"Tilko\"}",
+        "amplify-signin-with-hostedUI": "false",
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.idToken": "eyJraWQiOiJYdWgrb1wvaWJEeXBjZUNqVFoxVzZ5bHRsVnlnaVNGZmNEaGFCVU5ldlwvTTA9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJhdWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImV2ZW50X2lkIjoiNGE4MWVlYmEtNThkYi00ZGQzLTg5OTYtZmQ1YWM2MGM1NzJiIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImNvZ25pdG86dXNlcm5hbWUiOiJUaWxrbyIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJlbWFpbCI6Im1hcnRpbmV0dGkuZ3JlZ29pcmVAZ21haWwuY29tIn0.KnELdgUy7NpLA5sJB-bvxLKamyj9AcNpLhzrGT9Dmoqnmt0n1QAvk4Kx7xKng1dn0nVG0-K3cTwtos-56CPRC5zZ2_S8vT3YyB74dPMOGkwuzz2qlCciEjSy4pwVNnDak4eKk7HfZNVp6BScEyce8jtNOuueb1CmQSa6PKj_QGPSfoDxp2KWZ0Ko_PfUcE7vrl7ieFZMZK3QMFDNRg711YHSE7RMVrJrzTjf66xulWTwGf6iATZlpBzHWpQkqklOhAKn_Oz8FsfUn_s-FPpSFJzSspDJvF7jK7GZvtP2XXnfGSzmW5VvoYOa7JigBJ6JqEyZMbsnSa0GF8TjeSIb6w",
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.clockDrift": "0",
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.accessToken": "eyJraWQiOiI5UWFxXC9JcFwvSFE4UkNpSE50Mnh6NFZKbFVwa0hMY2dPbWhBOTJEeGtReVE9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI0MGVmMTVhZC03N2UyLTRhN2MtYmUwNC01MWU1N2MxNTJiZjYiLCJldmVudF9pZCI6IjRhODFlZWJhLTU4ZGItNGRkMy04OTk2LWZkNWFjNjBjNTcyYiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE1OTYwNTcyMjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0yX0w2YlVvRkNjaiIsImV4cCI6MTU5NjA2MDgyMiwiaWF0IjoxNTk2MDU3MjIyLCJqdGkiOiIyMWI2N2ZhZC1hZmIxLTRkZTctODdhNy1jOTkxNTYyNzMxOWQiLCJjbGllbnRfaWQiOiJrM2x2Y2xlNmRuczBiaDEyYnZnbWxwZGExIiwidXNlcm5hbWUiOiJUaWxrbyJ9.bnN09j2Pl0EvMIHzA62JM87aFH3LopJQAHu8wxSc0rJ15wsnYxgpafY13R0-xu2VD1Dbwduib0GKg7Sv03BwZDGQpEdDKdJKHe5spxzuRSx5dApQ0AlL3SECt725JR1xq_HQyIj8274afG-QEPIPRdM17pr2-JWNlx5JJaqP6un_JFZO4z7eWrObSV5LOE-BSVD6wFR7Z9_HOvLSPyP1xuZkUih1SVnlragHAVsXiOoyrUlACzFy1SFpZ53MRaZkXI5G6-5LNaUfOoHdchAUNDklBXGmlbmYM2YOhqATfCNFIPeUG8SGGzwOvEZg_pyMDKs4FyONP7xoGG_HcW-DPg",
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.refreshToken": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.T-hDFqAmOm7U9C6JP7GuH48H4SLF6wl5UKNRJGheMFMybCZbTn5E0cIoj5IQz1LReTcPCPvWjihlfgixoRHu0FbjGLEBJADZ3esgD3NHFprUr-FvfExE_0xZzMI6e4Xi7gFXSn5KbEA3FetEoOknMLLFikwKGXIAzTzNgBe08_iuVZHg8iaLckbiXgYpA-MZ__khWt8gEMSzrlHTHVU6UG6GT6cTHBcjUbWD6bD-6F9s5FARQ6HwdxnGrD_Mhwov8iBiAAfHxEJCBJ6qqGywv3zw22vJ8EQE9hxdJZayYvhFC9qfK0zcDgVCrkcNsJGIWpJv2QqDassTNqCvKIL-kg.m-RBx8rSsF9_4QJw.dtFyjZVmcF-xRdISSJbYEkBxWYyizqbBnHzAoziT_yUyKF5cawfa71W_W27-TUrJE9cnoYJVcFGXzsiXMFPUegbfYlsIVncVg7Nb8Fj7H4EEGkoHPlT5uE9wA3M4EpfRKpRVx8u9XVOE_azb-yAYdN2wcgeVm5wk4yvb30d--ppqeltoit7Mk9R775TQwB2r8nOa0-RHIVoreGMWOqiy6henan2xlQuR93ipFDpjFpd1DQAJ0WdyshMgrgYLQ_377icFC7Nm9zajC0zMi5Q7PkXA_5d7oqmvHXd4TYDKsm2IChQGkmPJV4-_qu1u0UJyo9jim3bII9IuORH8pSiWpD40qJZMntaOxGIMr3Y-cz0cuwCksjb3vKjWcf0B9t-VzAvm-x06F-173k2oIqnBB41p3TLnPWJYoXndmI5MyzUCx2H9znYfwCnG8_22su_seytxZcsdkqymiayxqIu7snzBeVT48whd0DCaoRvhWmiY-FtKfF-KdH1bpp0w-3MuoXDiyV--g05EXQ7hdZZ1z6jh2Re0Z-i6u_fJJyazIN62QVpeIJ2aMypumL0oRzXZUvOXxhG3esSLciwj5Dkf10EN3kYE68bXtO3XpXXD10apgy4hhLtzA_InIaxZdsMxgpYmh7zZQMU5u51US9Cma0zKKxXJcN1IoXHb_nUg9x_GMVRmJ_59NiXgfC7p4K8zfTRIO7GERw-LI_X4rjg3W5-spNXRo8NLb8j788kDny-SRHL5fAjVPy7xr_x73qp8uK5M5TFfCBV9mfUbcry3UcYTYDr2wb9zz4d4BCQVEUUtfBGz3HNvG_4UAopiqCxoarnYUG0aeRNkAIlcDfyIZ_a7tIaU2k21bTymt2cbVKanjP_Gy9nVHqI9Xrp6ECL6IVRHcxjn5N_W1Q1P0tTIY3GuVhNV5MY5Agxh7oohxod3suVRMvqz0jdi8DH__W2Gb4MRaNcor0YJrAI1FmfOfKRo7SWoIunNHBWa5jUjazpcLcvQlNEAVvSFC1xuN3zO8SF_MWFvIXHV4LzbX0-CRo1iNrr_STNMd9bDX2Or3BFbiJGMACtl94RdYfedpQOQCjYiLAUbQGWiboHMyEy6yu21X_jmTLTG-albXDiHb2aruLMgCLQbOvaKQmbEdDl5c9b-RRhpWtteo2qp5c_qAeXhUrP8PbEwX6HodV6WLShTcrNTmpHnu6OEMDS3LI4vI576RjYWdQOPbniUzxfXT0X0K2tEYJ5SssJdjUe-_Qp0E7fZlAmGoCNtMz5GYqDuBQ.4M93gOGGBEsaNc_Jqe8fxg",
+        "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.LastAuthUser": "Tilko"
+    },
+    "keyPrefix": "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1",
+    "userDataKey": "CognitoIdentityServiceProvider.k3lvcle6dns0bh12bvgmlpda1.Tilko.userData",
+    "attributes": {
+        "sub": "40ef15ad-77e2-4a7c-be04-51e57c152bf6",
+        "email_verified": true,
+        "email": "martinetti.gregoire@gmail.com"
+    },
+    "preferredMFA": "NOMFA"
+}

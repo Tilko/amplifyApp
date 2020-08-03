@@ -15,6 +15,7 @@ function App() {
     Auth.currentAuthenticatedUser({
       bypassCache: false  // Optional, By default is false. If set to true, this call will send a request to Cognito to get the latest user data
     }).then(user => {
+      console.log("user:" + JSON.stringify(user))
       setUserName(user.username);
     }) //
       .catch(err => console.log(err));
@@ -34,6 +35,7 @@ function App() {
     const notesFromAPI = apiData.data.listNotes.items;
     await Promise.all(notesFromAPI.map(async note => {
       if (note.image) {
+        console.log(note.image);
         const image = await Storage.get(note.image);
         note.image = image;
       }
@@ -94,7 +96,7 @@ function App() {
               <p>{note.description}</p>
               <button onClick={() => deleteNote(note)}>Delete note</button>
               {
-                note.image && <img src={note.image} style={{ width: 400 }} />
+                note.image && <img src={note.image} style={{}} />
               }
             </div>
           ))
