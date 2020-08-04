@@ -90,16 +90,18 @@ function App() {
       <button onClick={createNote}>Create Note</button>
       <div style={{ marginBottom: 30 }}>
         {
-          notes.map(note => (
-            <div key={note.id || note.name}>
+          notes.map(note => {
+            const image = note.image;
+            console.log("image:" + image)
+            return <div key={note.id || note.name}>
               <h2>{note.name}</h2>
               <p>{note.description}</p>
               <button onClick={() => deleteNote(note)}>Delete note</button>
               {
-                note.image && <img src={note.image} style={{}} />
+                note.image && <img src={image} style={{ maxHeight: 700 }} />
               }
             </div>
-          ))
+          })
         }
       </div>
       <AmplifySignOut />
